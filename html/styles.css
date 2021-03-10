@@ -1,0 +1,29 @@
+#header {
+    /* background-image: url("face.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center; */
+    background: url("face.jpeg") no-repeat center center /cover;
+    color: #f48b29;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 200%;
+    font-weight: 300;
+    text-align: center;
+}
+
+#red {
+    color: red;
+}
+
+.list-item {
+    color: blue;
+}
+
+#todo {
+    background: greenyellow;
+    border: black 3px solid;
+    padding-top: 20px;
+    margin-top: 50px;
+    height: 300px;
+    width: 60%;
+}
